@@ -13,3 +13,4 @@ const sum = (a, b) => {
 let postId;
 let isActive;
 let re = /\w+/g;
+console.log("Hellos");
